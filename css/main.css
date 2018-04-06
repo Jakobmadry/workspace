@@ -1,0 +1,91 @@
+h1,h2,h3{
+background:#f9f9f9;
+color:black;
+text-align:center;
+margin:0 auto;
+
+}
+body{
+    background-color:lightblue;
+}
+
+
+a {
+  text-decoration: none;
+
+  
+}
+p {
+
+color:grey;
+
+font-size:30px;
+
+}
+.stuff img{
+    margin:50px;
+}
+
+
+
+img{
+border-radius:40px;
+margin:50px;
+
+}
+
+header{
+margin:auto;
+border:0;
+padding:inherit;
+}
+.navagation{
+float:left;
+
+}
+
+
+#channels{
+margin:0 auto;
+}
+
+.logo img{
+}
+
+#links{text-align:center;}
+
+.aboutheader{
+    background-color: lightblue;
+    color:grey;
+    margin-top:50px;
+}
+
+.p1,.p2,.p3{
+    padding-left:10%;
+    padding-top:1%;
+    font-size:150%;
+}
+ .nav-link,.nav-link:hover,.nav-link:active,.nav-link:visited {
+ color: grey;
+ text-decoration:none;
+} 
+
+
+
+.contactsheader{
+    margin-top:5%;
+    color:grey;
+    background-color:lightblue;
+}
+.where{
+    padding-top:1%;
+    text-decoration:none;
+    text-align:center;
+    font-size: 30px
+}
+ul{
+    list-style-type: none;
+}
+.resume{
+ margin-left:28%;
+}
